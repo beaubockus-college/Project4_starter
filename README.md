@@ -1,6 +1,6 @@
-# Project 5: Java GUI
+# Project 4: Java GUI
 
-In Project 5, you will be implementing a map GUI for the triplog dataset which we have been working with over the course of the semester. Last project, you implemented a couple methods of stop detection in order to remove excess points. Now it is time to plot those points on a map and do a simple animation of the path. You will be given a completed TripPoint class (you should not have to edit this class at all). Your task will be to create any classes or methods required in order to implement the GUI map and components as well as the simple animation. To help you, an outline of the steps required is provided in the Driver.java class. You are not required to follow the outline. 
+In Project 4, you will be implementing a map GUI for the triplog dataset which we have been working with over the course of the semester. Last project, you implemented a couple methods of stop detection in order to remove excess points. Now it is time to plot those points on a map and do a simple animation of the path. You will be given a completed TripPoint class (you should not have to edit this class at all). Your task will be to create any classes or methods required in order to implement the GUI map and components as well as the simple animation. To help you, an outline of the steps required is provided in the Driver.java class. You are not required to follow the outline. 
 
 ## Mapping Libraries
 
@@ -60,4 +60,3 @@ You will be graded on your implementation of the required GUI elements and the r
 
 Submit your project before the due date/time. **No late submissions allowed.**
 
-**The project will be graded in person in your lab section on May 4th**
