@@ -1,5 +1,7 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import javax.swing.*;
+import java.awt.*;
 
 public class Driver {
 	
@@ -11,7 +13,11 @@ public class Driver {
     	
     	
     	// Set up frame, include your name in the title
-    	
+    	JFrame frame = new JFrame("Trip Animation - Beau Bockus");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(800, 600);
+        frame.setLayout(new FlowLayout());
+        frame.setVisible(true);
         
         // Set up Panel for input selections
         
