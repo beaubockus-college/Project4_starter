@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "java": "cd \"$workspaceRoot\" && javac -cp \"lib\\JMapViewer.jar\" -d bin src\\Driver.java src\\IconMarker.java src\\TripPoint.java && java -cp \"bin;lib\\JMapViewer.jar\" Driver"
+    }
+}
